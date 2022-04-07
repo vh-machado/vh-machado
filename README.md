@@ -1,5 +1,18 @@
-### Hi there 👋
+### Olá, mundo 👋
+by Victor Machado
 
+- Cursando Bacharelado em Ciência da Computação
+- Interessado em Desenvolvimento Mobile e UX/UI
+- Contato: vh.machado.silva@gmail.com
+
+<div>
+  <a href="https://beacons.ai/vh-machado">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vh-machado&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vh-machado&layout=compact&langs_count=16&theme=gruvbox"/>
+</div>
+  
+
+  
 <!--
 **vh-machado/vh-machado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
