@@ -13,8 +13,12 @@ by Victor Machado
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vh-machado&layout=compact&langs_count=10&theme=dracula&bg_color=311E10&title_color=FFE647&icon_color=52C3BE&text_color=FFA56D"/>
 </div>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vh-machado&repo=mochila)](https://github.com/vh-machado/mochila)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vh-machado&repo=Serializador)](https://github.com/vh-machado/Serializador)
+
+
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=bannf0500b9kwq9xv8mrl3jbj&cover_image=true&theme=default&bar_color_cover=false"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=bannf0500b9kwq9xv8mrl3jbj&cover_image=true&theme=default&bar_color_cover=false&"/>
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=bannf0500b9kwq9xv8mrl3jbj&width=400&count=7"/>
 </div>
 
