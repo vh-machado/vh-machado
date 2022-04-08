@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.png">
+  <img src="./assets/header-gitprofile.png">
 </div>
 
 ### Olá, mundo 👋
