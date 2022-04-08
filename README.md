@@ -5,13 +5,31 @@ by Victor Machado
 - Interessado em Desenvolvimento Mobile e UX/UI
 - Contato: vh.machado.silva@gmail.com
 
+<table>
+
+<tr>
+<td>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bannf0500b9kwq9xv8mrl3jbj&cover_image=true&theme=default&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=bannf0500b9kwq9xv8mrl3jbj&redirect=true)
+
+</td>
+<td>
+
+![Spotify Recent Played](https://spotify-recently-played-readme.vercel.app/api?user=bannf0500b9kwq9xv8mrl3jbj&width=400&count=7)
+
+</td>
+</tr>
+</table>
+
 <div>
   <a href="https://beacons.ai/vh-machado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vh-machado&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vh-machado&layout=compact&langs_count=16&theme=gruvbox"/>
 </div>
   
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=bannf0500b9kwq9xv8mrl3jbj)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bannf0500b9kwq9xv8mrl3jbj&cover_image=true&theme=novatorem&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=bannf0500b9kwq9xv8mrl3jbj&redirect=true)
+  
+
   
 <!--
 **vh-machado/vh-machado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
