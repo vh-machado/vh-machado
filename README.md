@@ -15,6 +15,8 @@ by Victor Machado
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=bannf0500b9kwq9xv8mrl3jbj&cover_image=true&theme=default&bar_color_cover=false"/>
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=bannf0500b9kwq9xv8mrl3jbj&width=400&count=7"/>
 </div>
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bannf0500b9kwq9xv8mrl3jbj&cover_image=true&theme=default&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=bannf0500b9kwq9xv8mrl3jbj&redirect=true)
 
 <!--
 <div align="center">
