@@ -1,11 +1,13 @@
+<div align="center">
+  <img src="./assets/header-profile.png">
+</div>
+
 ### Olá, mundo 👋
 by Victor Machado
 
 - Cursando Bacharelado em Ciência da Computação
 - Interessado em Desenvolvimento Mobile e UX/UI
 - Contato: vh.machado.silva@gmail.com
-
-
 
 <div align="center">
   <a href="https://github.com/vh-machado">
