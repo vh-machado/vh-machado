@@ -8,6 +8,7 @@
 ### Olá, mundo 👋
 by Victor Machado
 
+- Técnico em Informática pelo <a href="https://belem.ifpa.edu.br/">Instituto Federal do Pará</a>
 - Cursando Bacharelado em Ciência da Computação na <a href="https://portal.ufpa.br/">Universidade Federal do Pará</a>
 - Interessado em Desenvolvimento Mobile e UX/UI
 - Em busca de soluções para todos :rainbow_flag:
