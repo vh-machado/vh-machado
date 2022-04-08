@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header-profile.png">
+  <img src="./assets/header.png">
 </div>
 
 ### Olá, mundo 👋
