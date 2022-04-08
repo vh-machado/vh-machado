@@ -35,15 +35,16 @@ by Victor Machado
 </div>
   
 <div align="center">
-  <img src="./assets/banner-projetos.png">
+  <img src="./assets/banner-projeto.png">
 </div>
 
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vh-machado&repo=mochila&bg_color=311E10&title_color=FFE647&icon_color=52C3BE&text_color=FFA56D)](https://github.com/vh-machado/mochila)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vh-machado&repo=Serializador&bg_color=311E10&title_color=FFE647&icon_color=52C3BE&text_color=FFA56D)](https://github.com/vh-machado/Serializador)
 
+ <br>
 <div align="center">
-  <img src="./assets/banner-mais.png">
+  <img src="./assets/banner-mais-sobre.png">
 </div>
 
 <div>
