@@ -1,7 +1,7 @@
 
 <!-- Header -->
 <div align="center">
-  <img src="./assets/header-perfil.png">
+  <img src="./assets/banner.png">
 </div>
 
 <!-- Info -->
