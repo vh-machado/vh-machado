@@ -43,7 +43,7 @@ by Victor Machado
   
 <!-- Banner Projetos -->
 <div align="center">
-  <img src="./assets/banner-projeto.png">
+  <img src="./assets/banner-p.png">
 </div>
 
 <!-- Cards dos Repositórios -->
@@ -54,7 +54,7 @@ by Victor Machado
   
 <!-- Banner Mais Sobre Mim -->
 <div align="center">
-  <img src="./assets/banner-mais-sobre.png">
+  <img src="./assets/banner-m.png">
 </div>
 
 <!-- Spotify -->
