@@ -47,8 +47,7 @@ by Victor Machado
 </div>
 
 <!-- Cards dos Repositórios -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vh-machado&repo=mochila&bg_color=311E10&title_color=FFE647&icon_color=52C3BE&text_color=FFA56D&width=500)](https://github.com/vh-machado/mochila)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vh-machado&repo=Serializador&bg_color=311E10&title_color=FFE647&icon_color=52C3BE&text_color=FFA56D)](https://github.com/vh-machado/Serializador)
+
 <br>
   
 <!-- Banner Mais Sobre Mim -->
