@@ -51,6 +51,9 @@ by Victor Machado
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vh-machado&repo=Serializador&bg_color=311E10&title_color=FFE647&icon_color=52C3BE&text_color=FFA56D&width=400)](https://github.com/vh-machado/Serializador)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vh-machado&repo=mochila&bg_color=311E10&title_color=FFE647&icon_color=52C3BE&text_color=FFA56D&width=100)](https://github.com/vh-machado/mochila)
 <br>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vh-machado&repo=Tricoder&bg_color=311E10&title_color=FFE647&icon_color=52C3BE&text_color=FFA56D&width=100)](https://github.com/vh-machado/Tricoder)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vh-machado&repo=vertex&bg_color=311E10&title_color=FFE647&icon_color=52C3BE&text_color=FFA56D&width=100)](https://github.com/vh-machado/vertex)
+<br>
   
 <!-- Banner Mais Sobre Mim -->
 <div align="center">
