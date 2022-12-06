@@ -49,8 +49,8 @@ by Victor Machado
 
 <!-- Cards dos Repositórios -->
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vh-machado&repo=Serializador&bg_color=311E10&title_color=FFE647&icon_color=52C3BE&text_color=FFA56D&width=400)](https://github.com/vh-machado/Serializador)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vh-machado&repo=mochila&bg_color=311E10&title_color=FFE647&icon_color=52C3BE&text_color=FFA56D&width=100)](https://github.com/vh-machado/mochila)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vh-machado&repo=devspaidegua-frontend&bg_color=311E10&title_color=FFE647&icon_color=52C3BE&text_color=FFA56D&width=400)](https://github.com/vh-machado/devspaidegua-frontend)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vh-machado&repo=dindin&bg_color=311E10&title_color=FFE647&icon_color=52C3BE&text_color=FFA56D&width=100)](https://github.com/vh-machado/dindin)
 <br>
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vh-machado&repo=Tricoder&bg_color=311E10&title_color=FFE647&icon_color=52C3BE&text_color=FFA56D&width=100)](https://github.com/vh-machado/Tricoder)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vh-machado&repo=vertex&bg_color=311E10&title_color=FFE647&icon_color=52C3BE&text_color=FFA56D&width=100)](https://github.com/vh-machado/vertex)
